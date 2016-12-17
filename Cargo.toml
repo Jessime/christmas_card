@@ -1,0 +1,6 @@
+[package]
+name = "patty_card"
+version = "0.1.0"
+authors = ["Jessime <jessime.kirk@gmail.com>"]
+
+[dependencies]
